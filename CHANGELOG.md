@@ -6,6 +6,7 @@
 * chore(add npconfig): add npconfig ([42d1d25](https://github.com/imbhargav5/rooks/commit/42d1d25))
 * chore(add release-dev script): add release-dev script ([3a969ac](https://github.com/imbhargav5/rooks/commit/3a969ac))
 * chore(disable usemouse tests): disable useMouse tests temporarily until we find a fix ([c826639](https://github.com/imbhargav5/rooks/commit/c826639))
+* chore(docs): upate ([05411a3](https://github.com/imbhargav5/rooks/commit/05411a3))
 * chore(docusaurus): rearrange ([5df1794](https://github.com/imbhargav5/rooks/commit/5df1794))
 * chore(fix typo in npconfig file name): fix typo ([77ff16b](https://github.com/imbhargav5/rooks/commit/77ff16b))
 * chore(fix typo): fix typo ([8793257](https://github.com/imbhargav5/rooks/commit/8793257))
