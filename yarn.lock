@@ -16383,12 +16383,13 @@ unist-util-find-all-before@^2.0.5:
   dependencies:
     unist-util-is "^4.0.0"
 
-unist-util-find-all-before@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/unist-util-find-all-before/-/unist-util-find-all-before-3.0.1.tgz#c72018ef609168009d9e48c012c3135eb9fd3eaa"
-  integrity sha512-00YMzXOOu4z/qCHKQI6z7TeERAbIBda0E/1sZqP0cJdGd3d1OtUPvQlMhNCwz4QBFo//GcW2dHOYXPdu3jINdA==
+unist-util-find-all-before@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/unist-util-find-all-before/-/unist-util-find-all-before-4.0.1.tgz#d5e5ce04a7db4969757a065f7c2f9b3d4a682621"
+  integrity sha512-xg4UHtZ6VbcjQbfDtmLZch6kQYQFF3nfaW05Ie3+t2UectzeqSx/iqLmh/wWogwU+YDWnD40PjZKK7ORmCma+g==
   dependencies:
-    unist-util-is "^4.0.0"
+    "@types/unist" "^2.0.0"
+    unist-util-is "^5.0.0"
 
 unist-util-find-all-between@^2.0.0, unist-util-find-all-between@^2.1.0:
   version "2.1.0"
@@ -16429,6 +16430,11 @@ unist-util-is@^4.0.0, unist-util-is@^4.0.2:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-4.0.3.tgz#e8b44db55fc20c43752b3346c116344d45d7c91d"
   integrity sha512-bTofCFVx0iQM8Jqb1TBDVRIQW03YkD3p66JOd/aCWuqzlLyUtx1ZAGw/u+Zw+SttKvSVcvTiKYbfrtLoLefykw==
+
+unist-util-is@^5.0.0:
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/unist-util-is/-/unist-util-is-5.2.0.tgz#37eed0617b76c114fd34d44c201aa96fd928b309"
+  integrity sha512-Glt17jWwZeyqrFqOK0pF1Ded5U3yzJnFr8CG1GMjCWTp9zDo2p+cmD6pWbZU8AgM5WU3IzRv6+rBwhzsGh6hBQ==
 
 unist-util-position@^3.0.0:
   version "3.1.0"
